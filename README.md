@@ -1,9 +1,8 @@
 # Lenovo-X1C3-OpenCore
 
-Lenevo X1 Carbon 3rd Gen OpenCore Hackintosh
+Lenevo X1 Carbon 3rd Gen OpenCore Hackintosh 
 
-Everything works including built-in Wifi. 
-
+Tested MacOS Version: Catalina 10.15.6
 
 ## What Works:
 1. Graphics
@@ -16,5 +15,4 @@ Everything works including built-in Wifi.
 8. Built-in Bluetooth
 9. iMessage, Facetime Support
 
-
-
+Everything works including built-in Wifi.
